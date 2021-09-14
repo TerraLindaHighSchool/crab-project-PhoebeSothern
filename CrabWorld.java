@@ -39,5 +39,13 @@ public class CrabWorld extends World
         addObject(worm8,366,138);
         Lobster lobster = new Lobster();
         addObject(lobster,388,270);
+        Cat cat = new Cat();
+        addObject(cat,246,229);
+        Mouse mouse = new Mouse();
+        addObject(mouse,278,155);
+        cat.setLocation(126,344);
+        removeObject(lobster);
+        crab.setLocation(197,144);
+        removeObject(crab);
     }
 }
