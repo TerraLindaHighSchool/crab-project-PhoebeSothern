@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Cheese here.
+ * Cheese is the Mouse's favorite food.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Phoebe Sothern 
+ * @version 9/15/21
  */
 public class Cheese extends Actor
 {
